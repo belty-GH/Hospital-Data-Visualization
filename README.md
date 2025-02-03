@@ -17,3 +17,5 @@ Joins hospital data with province data.
 Calculates the number of hospitals per province.
 Displays a bar chart showing the distribution of hospitals in each province.
 Adds percentage labels to each province bar.
+
+Any improvements or suggestions are greatly appreciated!
